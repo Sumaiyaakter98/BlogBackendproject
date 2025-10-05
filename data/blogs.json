@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog",
+    "content": "This is my first blog post!",
+    "author": "Akhi"
+  },
+  {
+    "id": 2,
+    "content": "This is my 2nd blog post!",
+    "author": "Pakhi"
+  },
+  {
+    "id": 3,
+    "title": "My 3rd blog Title",
+    "content": "This is the 3rd blog content",
+    "author": "Sumaiya"
+  },
+  {
+    "id": 4,
+    "title": "My 4rd blog Title",
+    "content": "This is the 4rd blog content",
+    "author": "Aura"
+  }
+]
